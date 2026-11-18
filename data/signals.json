@@ -1,24 +1,24 @@
 {
  "hk": {
   "state": "持倉",
-  "text": "2026-10-23 買入，恒指 +1.80%；T2108 > 60 賣出",
+  "text": "2026-10-23 買入，恒指 +0.87%；T2108 > 60 賣出",
   "event": "none",
-  "raw": "date=2026-11-17 t2108=30.68 state=HOLD\nholding since 2026-10-23 t2108_in=20.45 hsi_in=23093 hsi_ret=+1.80% tracker_ret=-0.42% sell when T2108 > 60",
-  "date": "2026-11-17"
+  "raw": "date=2026-11-18 t2108=29.72 state=HOLD\nholding since 2026-10-23 t2108_in=20.45 hsi_in=23093 hsi_ret=+0.87% tracker_ret=-1.43% sell when T2108 > 60",
+  "date": "2026-11-18"
  },
  "jp": {
   "state": "持倉",
-  "text": "2026-11-05 買入，日經 -3.63%；T2108 > 70 賣出",
+  "text": "2026-11-05 買入，日經 -3.36%；T2108 > 70 賣出",
   "event": "none",
-  "raw": "date=2026-11-17 t2108=31.54 state=HOLD\nholding since 2026-11-05 t2108_in=34.50 nikkei_in=61078 nikkei_ret=-3.63% topix_ret=-2.67%",
-  "date": "2026-11-17"
+  "raw": "date=2026-11-18 t2108=27.35 state=HOLD\nholding since 2026-11-05 t2108_in=34.50 nikkei_in=61078 nikkei_ret=-3.36% topix_ret=-3.30%",
+  "date": "2026-11-18"
  },
  "au": {
   "state": "持倉",
-  "text": "2026-10-09 買入，ASX200 +1.91%；T2108 > 70 賣出",
+  "text": "2026-10-09 買入，ASX200 +1.21%；T2108 > 70 賣出",
   "event": "none",
-  "raw": "Date 2026-11-17  T2108 49.2  ASX200 8,883.2\nSignal today: none\nPosition: HOLDING since 2026-10-09 (ASX200 8,716.6, T2108 34.0); P/L +1.91%; sell when T2108 > 70",
-  "date": "2026-11-17"
+  "raw": "Date 2026-11-18  T2108 46.2  ASX200 8,821.8\nSignal today: none\nPosition: HOLDING since 2026-10-09 (ASX200 8,716.6, T2108 34.0); P/L +1.21%; sell when T2108 > 70",
+  "date": "2026-11-18"
  },
- "updated": "2026-11-17 17:50 HKT"
+ "updated": "2026-11-18 17:52 HKT"
 }
